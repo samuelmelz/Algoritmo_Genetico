@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Samuel\Downloads\Algoritmo_Genetico\.metadata\.plugins\org.eclipse.jdt.core
+532131488.index
+1761134594.index
